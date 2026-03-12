@@ -9,3 +9,7 @@ function updateBalance(balance){
 function checkBalance(){
     console.log(balance);
 }
+
+function updateAge(age){
+    age = age;
+}
