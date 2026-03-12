@@ -5,6 +5,7 @@ const balance = 420;
 function updateBalance(balance){
     balance += balance
 }
+console.log(balance);
 
 function checkBalance(){
     console.log(balance);
