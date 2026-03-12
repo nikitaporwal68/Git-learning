@@ -11,9 +11,9 @@ function checkBalance(){
 }
 
 function updateAge(age){
-    age = age;
+    age = age
 }
 
 function updateName(name){
-    name = name;
+    name = name
 }
