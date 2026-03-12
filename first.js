@@ -1,3 +1,1 @@
-console.log("Hello")
-
-console.log("Practicing Github");
+const age = 20;
