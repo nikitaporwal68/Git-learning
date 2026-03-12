@@ -10,3 +10,4 @@ function checkBalance(){
     console.log(balance);
 }
 
+const age = 20;
