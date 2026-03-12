@@ -1,6 +1,6 @@
 const age = 20;
 const name = "Rohit"
-
+const balance = 420;
 
 function updateBalance(balance){
     balance += balance
