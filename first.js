@@ -9,5 +9,3 @@ function updateBalance(balance){
 function checkBalance(){
     console.log(balance);
 }
-
-const age = 20;
