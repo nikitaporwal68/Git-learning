@@ -17,3 +17,8 @@ function updateAge(age){
 function updateName(name){
     name = name
 }
+
+
+// Bank Details
+const login = "Login page added"
+console.log(login);
