@@ -6,4 +6,7 @@ function updateBalance(balance){
     balance += balance;
 }
 
+function checkBalance(){
+    console.log(balance);
+}
 
