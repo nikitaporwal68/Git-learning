@@ -13,3 +13,7 @@ function checkBalance(){
 function updateAge(age){
     age = age;
 }
+
+function updateName(name){
+    name = name;
+}
