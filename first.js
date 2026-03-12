@@ -22,3 +22,6 @@ function updateName(name){
 // Bank Details
 const login = "Login page added"
 console.log(login);
+
+const upi = "UPI Added"
+console.log(upi);
